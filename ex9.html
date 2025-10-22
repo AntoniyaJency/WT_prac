@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head><title>DB Access</title></head>
+<body>
+<h1>Database Access Example</h1>
+
+<form action="ex9" method="get">
+    <h2>INSERT INTO DEPARTMENT</h2>
+    DeptID: <input type="text" name="deptId"><br><br>
+    DeptName: <input type="text" name="deptName"><br><br>
+    NOS: <input type="text" name="nos"><br><br>
+    <input type="submit" name="action" value="insertDept">
+</form>
+
+<form action="ex9" method="get">
+    <h2>UPDATE DEPARTMENT</h2>
+    DeptID: <input type="text" name="deptId"><br><br>
+    DeptName: <input type="text" name="deptName"><br><br>
+    NOS: <input type="text" name="nos"><br><br>
+    <input type="submit" name="action" value="updateDept">
+</form>
+
+<form action="ex9" method="get">
+    <h2>DELETE FROM MARKS</h2>
+    <p>Enter register number of the student to delete marks record</p>
+    RegNo: <input type="text" name="regNo"><br><br>
+    <input type="submit" name="action" value="deleteMarks">
+</form>
+    
+<form action="ex9" method="get">
+    <h2>SELECT FROM MARKS</h2>
+    RegNo: <input type="text" name="regNo"><br><br>
+    <input type="submit" name="action" value="selectMarks">
+</form>
+
+
+
+
+</body>
+</html>

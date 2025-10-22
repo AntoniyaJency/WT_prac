@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+  
+  <servlet>
+    <servlet-name>ex6</servlet-name>
+    <servlet-class>ex6</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex6</servlet-name>
+    <url-pattern>/ex6</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ex7a1</servlet-name>
+    <servlet-class>ex7a1</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7a1</servlet-name>
+    <url-pattern>/ex7a1</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ex7a2</servlet-name>
+    <servlet-class>ex7a2</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7a2</servlet-name>
+    <url-pattern>/ex7a2</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex7b1</servlet-name>
+    <servlet-class>ex7b1</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7b1</servlet-name>
+    <url-pattern>/ex7b1</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex7b2</servlet-name>
+    <servlet-class>ex7b2</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7b2</servlet-name>
+    <url-pattern>/ex7b2</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex7c1</servlet-name>
+    <servlet-class>ex7c1</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7c1</servlet-name>
+    <url-pattern>/ex7c1</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ex7c2</servlet-name>
+    <servlet-class>ex7c2</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7c2</servlet-name>
+    <url-pattern>/ex7c2</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex7d1</servlet-name>
+    <servlet-class>ex7d1</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7d1</servlet-name>
+    <url-pattern>/ex7d1</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex7d2</servlet-name>
+    <servlet-class>ex7d2</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex7d2</servlet-name>
+    <url-pattern>/ex7d2</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex8a</servlet-name>
+    <servlet-class>ex8a</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex8a</servlet-name>
+    <url-pattern>/ex8a</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>ex8b</servlet-name>
+    <servlet-class>ex8b</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex8b</servlet-name>
+    <url-pattern>/ex8b</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ex9</servlet-name>
+    <servlet-class>ex9</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ex9</servlet-name>
+    <url-pattern>/ex9</url-pattern>
+  </servlet-mapping>
+
+
+</web-app>
