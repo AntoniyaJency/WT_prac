@@ -128,5 +128,15 @@
     <url-pattern>/ex9</url-pattern>
   </servlet-mapping>
 
+    <servlet>
+    <servlet-name>prac1</servlet-name>
+    <servlet-class>prac1</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>prac1</servlet-name>
+    <url-pattern>/prac1</url-pattern>
+  </servlet-mapping>
+
 
 </web-app>
