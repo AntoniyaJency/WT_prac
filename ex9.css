@@ -1,0 +1,8 @@
+form{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    padding: 40px;
+    background-color: thistle;
+    align-items: center;
+}

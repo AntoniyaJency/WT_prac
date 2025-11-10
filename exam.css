@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(to right, rgb(229, 216, 216), rgb(108, 107, 107));
+        font-family: 'Poppins', sans-serif;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar{
+    background-color: black;
+    text-align: center;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display : flex;
+    
+    justify-content: space-around;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display : block;
+    padding: 15px;;
+}
+
+a:hover{
+    background-color: rgb(52, 51, 51);
+}
+
+main{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
